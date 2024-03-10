@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **jose.sastre376797@hotmail.com**
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +28,8 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="elcheinformatico" height="30" width="40" /></a>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 
@@ -44,5 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheinformatico&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="cheinformatico" /></p>
       
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[cheinformatico](https://github.com/cheinformatico)
+<p align="right" > by <a href="https://github.com/cheinformatico">cheinformatico</a></p>
