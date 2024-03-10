@@ -12,9 +12,8 @@
 
 - 📫 How to reach me **jose.sastre376797@hotmail.com**
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,9 +28,8 @@
       alt="elcheinformatico" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
