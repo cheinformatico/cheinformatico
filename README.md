@@ -10,11 +10,11 @@
 
 <pre>
 💻 I am passionate about the world of programming
-📝 I have a great interest in Software Engineering and Design
-🌱 Learn about efficient designs for scalable systems
-🌟 Primary language: C# 👾
+📝 I have a strong interest in Software Engineering and Design
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: C# 👾
 🎯Interested in server-side application development
-🤝 I hope to collaborate on impactful projects
+🤝 I look forward to collaborate on impactful projects
 </pre>
 
 - 📫 How to reach me **jose.sastre376797@hotmail.com**
