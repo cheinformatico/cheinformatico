@@ -8,7 +8,14 @@
 
 <br>
 
-- 🌱 I’m currently learning programming languages
+<pre>
+💻 I am passionate about the world of programming
+📝 I have a great interest in Software Engineering and Design
+🌱 Learn about efficient designs for scalable systems
+🌟 Primary language: C# 👾
+🎯Interested in server-side application development
+🤝 I hope to collaborate on impactful projects
+</pre>
 
 - 📫 How to reach me **jose.sastre376797@hotmail.com**
 
