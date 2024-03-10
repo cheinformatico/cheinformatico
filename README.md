@@ -32,7 +32,7 @@
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3>Statistical Data :-</h3>
+<h3><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cheinformatico&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="cheinformatico" 
