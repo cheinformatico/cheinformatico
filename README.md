@@ -26,6 +26,7 @@
   <a href="https://www.instagram.com/elcheinformatico/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="elcheinformatico" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@MsOdin007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elcheinformatico" height="30" width="40" /></a>
 </p>
 
 <br>
