@@ -31,7 +31,7 @@
 🤝 I look forward to collaborate on impactful projects
 </pre>
 
-- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> 📫 How to reach me **jose.sastre376797@hotmail.com**
+- <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> 📫 How to reach me **jose.sastre376797@gmail.com**
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
