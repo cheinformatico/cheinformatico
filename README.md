@@ -77,8 +77,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=SherkFlor" />
 </a>
 
-<a href="https://github.com/cheinformatico/FLORES_ROSASFLORES_ROSAS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=FLORES_ROSASFLORES_ROSAS" />
+<a href="https://github.com/cheinformatico/FLORES_ROSAS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=FLORES_ROSAS" />
 </a>
 
 <a href="https://github.com/cheinformatico/CURSOR_CUADROS">
