@@ -74,19 +74,19 @@
 
 
 <a href="https://github.com/cheinformatico/SherkFlor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=SherkFlor" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=SherkFlor&bg_color=0d1117&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/cheinformatico/FLORES_ROSAS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=FLORES_ROSAS" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=FLORES_ROSAS&bg_color=0d1117&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/cheinformatico/CURSOR_CUADROS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=CURSOR_CUADROS" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=CURSOR_CUADROS&bg_color=0d1117&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/cheinformatico/MARIPOSA_SAMURAI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=MARIPOSA_SAMURAI" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=MARIPOSA_SAMURAI&bg_color=0d1117&text_color=ffffff" />
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
