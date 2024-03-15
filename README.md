@@ -62,7 +62,7 @@
 
 
 <a href="https://github.com/cheinformatico/SherkFlor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=SherkFlor&bg_color=0d1117&text_color=ffffff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=SherkFlor&bg_color=0d1117&text_color=ffffff&icon_color=7F3FBF" />
 </a>
 
 <a href="https://github.com/cheinformatico/FLORES_ROSAS">
