@@ -70,4 +70,26 @@
       
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+⭐️ From [cheinformatico](https://github.com/cheinformatico)
+
+
+<a href="https://github.com/cheinformatico/SherkFlor">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=SherkFlor" />
+</a>
+
+<a href="https://github.com/cheinformatico/FLORES_ROSASFLORES_ROSAS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=FLORES_ROSASFLORES_ROSAS" />
+</a>
+
+<a href="https://github.com/cheinformatico/CURSOR_CUADROS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=CURSOR_CUADROS" />
+</a>
+
+<a href="https://github.com/cheinformatico/MARIPOSA_SAMURAI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheinformatico&repo=MARIPOSA_SAMURAI" />
+</a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 <p align="right" > by <a href="https://github.com/cheinformatico">cheinformatico</a></p>
